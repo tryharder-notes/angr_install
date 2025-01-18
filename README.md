@@ -11,5 +11,5 @@ This script will create a virtual environment named "angr_env" in execution dire
 
 ## Tested on
 
-- **Kali Linux Rolling 2024.3** with Python 3.x
-- **Ubuntu 22.04.5 LTS** with Python 3.x
+- **Kali Linux Rolling 2024.3** with Python 3.12.8
+- **Ubuntu 22.04.5 LTS** with Python 3.10.12
